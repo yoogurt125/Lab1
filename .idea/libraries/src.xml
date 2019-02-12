@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="src">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../diff-match-patch-master/diff-match-patch-master/java/src" />
+      <root url="file://$PROJECT_DIR$/../diff-match-patch-master/diff-match-patch-master/java/tests" />
+    </SOURCES>
+  </library>
+</component>
